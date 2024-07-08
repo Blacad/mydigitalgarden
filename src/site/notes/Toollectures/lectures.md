@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","permalink":"/Toollectures/lectures/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/Toollectures/lectures/","dgPassFrontmatter":true}
 ---
 
 
