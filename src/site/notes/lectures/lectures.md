@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","permalink":"/lectures/lectures/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/lectures/lectures/","dgPassFrontmatter":true}
 ---
 
 
