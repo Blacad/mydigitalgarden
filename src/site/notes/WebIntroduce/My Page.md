@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":"true","permalink":"/WebIntroduce/My Page/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/WebIntroduce/My Page/","dgPassFrontmatter":true}
 ---
 
 # Welcome to My Page
