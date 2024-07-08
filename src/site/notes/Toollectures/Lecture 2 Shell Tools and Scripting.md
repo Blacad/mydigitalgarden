@@ -86,5 +86,3 @@ done
 n=$(($RANDOM%100))
 n=$((n+1))
 ```
-
-[[lectures/Lecture 1\|Lecture 1]] | [[Toollectures/Lecture 3 Vim\|Lecture 3 Vim]]
