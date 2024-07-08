@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Toollectures/Lecture 8 Metaprogramming/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/toollectures/lecture-8-metaprogramming/","dgPassFrontmatter":true}
 ---
 
 

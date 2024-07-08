@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/WebIntroduce/Introduce/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/web-introduce/introduce/","dgPassFrontmatter":true}
 ---
 
 # Nothing

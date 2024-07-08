@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Toollectures/Lecture 4 Data Wrangling/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/toollectures/lecture-4-data-wrangling/","dgPassFrontmatter":true}
 ---
 
 

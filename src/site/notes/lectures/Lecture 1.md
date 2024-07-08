@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lectures/Lecture 1/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/lectures/lecture-1/","dgPassFrontmatter":true}
 ---
 
 # Source

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Toollectures/Lecture 5 Command-line Environment/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/toollectures/lecture-5-command-line-environment/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Toollectures/Lecture 1 Overview and Shell/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/toollectures/lecture-1-overview-and-shell/","dgPassFrontmatter":true}
 ---
 
 

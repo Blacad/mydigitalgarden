@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Toollectures/Lecture 6 Git/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/toollectures/lecture-6-git/","dgPassFrontmatter":true}
 ---
 
 

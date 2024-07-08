@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Toollectures/lectures/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/toollectures/lectures/","dgPassFrontmatter":true}
 ---
 
 

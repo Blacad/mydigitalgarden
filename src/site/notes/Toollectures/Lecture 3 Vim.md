@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Toollectures/Lecture 3 Vim/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/toollectures/lecture-3-vim/","dgPassFrontmatter":true}
 ---
 
 

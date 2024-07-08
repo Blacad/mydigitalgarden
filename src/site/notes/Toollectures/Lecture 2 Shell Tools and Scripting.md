@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Toollectures/Lecture 2 Shell Tools and Scripting/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/toollectures/lecture-2-shell-tools-and-scripting/","dgPassFrontmatter":true}
 ---
 
 

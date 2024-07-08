@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Toollectures/Lecture 7 Debugging and Profiling/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/toollectures/lecture-7-debugging-and-profiling/","dgPassFrontmatter":true}
 ---
 
 
